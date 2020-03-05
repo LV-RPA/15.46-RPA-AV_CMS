@@ -6,7 +6,7 @@ import shutil
 desde = datetime.datetime.now() + datetime.timedelta(days=-28)
 hasta = datetime.datetime.now()
 user_cms = ("CQUISP65")
-pass_cms = ("Claudio02201")
+pass_cms = ("Claudio02202")
 user_inguz = ("74590179")
 pass_inguz = ("jarvis")
 link_inguz = ("www.anovo.pe/inguz")
